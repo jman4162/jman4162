@@ -17,8 +17,8 @@ MATLAB • HFSS / CST / FEKO / ADS (and friends)
 ## 🚀 Featured work (start here)
 - **[Phased-Array-Antenna-Model](https://github.com/jman4162/Phased-Array-Antenna-Model)** Phased-array antenna pattern modeling and analysis — practical, engineering-first code and examples.
 - **[phased-array-systems](https://github.com/jman4162/phased-array-systems)** Systems-level phased-array concepts and implementation notes/tools for real-world arrays.
-- ☕ **[BeanBench (iOS)](https://apps.apple.com/il/app/beanbench/id6758197929)** — an iPhone app for specialty coffee nerds: log brews, rate beans, and build better cups over time.
-- **[PyTorch-Vision-Transformers-ViT](https://github.com/jman4162/PyTorch-Vision-Transformers-ViT)** Vision Transformer work in PyTorch — experiments, implementation details, and learning artifacts.
+- ☕ **[BeanBench (iOS)](https://apps.apple.com/il/app/beanbench/id6758197929)** An iPhone app for specialty coffee nerds: log brews, rate beans, and build better cups over time.
+- **[PyTorch-Vision-Transformers-ViT](https://github.com/jman4162/PyTorch-Vision-Transformers-ViT)** Vision Transformer work in PyTorch, experiments, implementation details, and learning artifacts.
 
 ## 🤝 Collaboration interests
 If you’re working on any of these, I’d love to chat:
