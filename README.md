@@ -31,6 +31,7 @@ MATLAB | HFSS | CST | FEKO | ADS
 
 ## Reach Me
 - LinkedIn: https://linkedin.com/in/jhodge007
+- Google Scholar: https://scholar.google.com/citations?user=SZPSZm0AAAAJ&hl=en
 - GitHub: https://github.com/jman4162
 - Email: jah70 at vt dot edu
 
