@@ -2,6 +2,8 @@
 
 I'm a Senior Applied Scientist building production ML systems for diagnostics, reliability, repair recommendations, and hardware/signal decision-making.
 
+🔗 **[john-hodge.com](https://john-hodge.com)** — projects, research, publications, and writing.
+
 Current focus:
 - ML for diagnostics, reliability, and repair recommendations on messy operational data
 - Ranking, calibration, uncertainty, evaluation, and cost-sensitive decisions
@@ -22,6 +24,7 @@ MATLAB | HFSS | CST | FEKO | ADS
 - **[EdgeFEM](https://github.com/jman4162/EdgeFEM)**: 3D finite-element electromagnetics solver for RF/mmWave simulation using Nedelec edge elements.
 - **[PyTorch-Vision-Transformers-ViT](https://github.com/jman4162/PyTorch-Vision-Transformers-ViT)**: Vision Transformer fine-tuning experiments in PyTorch with practical training and evaluation notes.
 - **[Baseball-Pitch-Sequence-Prediction](https://github.com/jman4162/Baseball-Pitch-Sequence-Prediction)**: Sequence-modeling benchmark using LSTM, Transformer, CNN, HMM, Random Forest, Logistic Regression, and AutoGluon with ablations and MLflow tracking.
+- **[Research & publications](https://john-hodge.com/research/)**: PhD work on reconfigurable intelligent metasurfaces, peer-reviewed papers, awards, a patent, and public talks.
 
 ## Collaboration Interests
 - Multimodal modeling over text, sensors, signals, and structured telemetry
@@ -30,8 +33,11 @@ MATLAB | HFSS | CST | FEKO | ADS
 - Evaluation methodology, calibration, ranking, and decision systems under uncertainty
 
 ## Reach Me
+- Website: https://john-hodge.com
 - LinkedIn: https://linkedin.com/in/jhodge007
 - Google Scholar: https://scholar.google.com/citations?user=SZPSZm0AAAAJ&hl=en
+- X: https://x.com/johnhodgeml
+- Quora: https://www.quora.com/profile/John-Hodge-5
 - GitHub: https://github.com/jman4162
 - Email: jah70 at vt dot edu
 
