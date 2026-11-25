@@ -22,6 +22,10 @@ MATLAB | HFSS | CST | FEKO | ADS
 ## Featured Work
 - **[Phased-Array-Antenna-Model](https://github.com/jman4162/Phased-Array-Antenna-Model)**: Python library and tutorials for phased-array antenna pattern modeling, beamforming, impairments, and visualization.
 - **[EdgeFEM](https://github.com/jman4162/EdgeFEM)**: 3D finite-element electromagnetics solver for RF/mmWave simulation using Nedelec edge elements.
+- **[metasurface-py](https://github.com/jman4162/metasurface-py)**: Python package for programmable metasurface (RIS) design, beamforming under hardware constraints, and RIS-assisted channel and sensing models. It builds on my PhD research.
+- **[OpenEM Wave Lab](https://jman4162.github.io/openem-wave-lab/)**: browser-based interactive lessons on electromagnetic wave physics, each model tested against closed-form results ([source](https://github.com/jman4162/openem-wave-lab)).
+- **[RF-and-Antenna-Tutorials](https://github.com/jman4162/RF-and-Antenna-Tutorials)**: worked-problem Python notebooks on antennas, layered media, FDTD, and scattering, each checked against analytical results.
+- **[Electromagnetics work samples](https://github.com/jman4162/electromagnetics-work-samples)**: my fabricated PhD metasurface prototype, graduate EM projects, and Northrop Grumman phased-array talks.
 - **[PyTorch-Vision-Transformers-ViT](https://github.com/jman4162/PyTorch-Vision-Transformers-ViT)**: Vision Transformer fine-tuning experiments in PyTorch with practical training and evaluation notes.
 - **[Baseball-Pitch-Sequence-Prediction](https://github.com/jman4162/Baseball-Pitch-Sequence-Prediction)**: Sequence-modeling benchmark using LSTM, Transformer, CNN, HMM, Random Forest, Logistic Regression, and AutoGluon with ablations and MLflow tracking.
 - **[Research & publications](https://john-hodge.com/research/)**: PhD work on reconfigurable intelligent metasurfaces, peer-reviewed papers, awards, a patent, and public talks.
